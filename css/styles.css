@@ -638,8 +638,10 @@ progress {
 }
 
 .img-fluid {
-  max-width: 100%;
+  max-width: 97%;
   height: auto;
+  box-shadow: 0.2rem 0.1rem 3px 0px rgb(0 0 0 / 70%);
+  
 }
 
 .img-thumbnail {
@@ -11694,7 +11696,8 @@ body {
 }
 
 .page-section {
-  padding: 8rem 0;
+  /*padding: 8rem 0;*/
+  padding: 4rem 0;
 }
 
 .text-white-75 {
@@ -11978,7 +11981,7 @@ header.masthead .h1 {
   color: transparent;
   font-size: 3rem;
   text-shadow: #fff;
-  text-shadow: 1px 1px 2px #ff8787, 0 0 1em #fcefa4, 0 0 0.2em black;
+  text-shadow: 1px 1px 2px #ff8787, 0 0 1em #fff4b8, 0 0 0.2em black;
 }
 
 .arco2 {
@@ -11989,7 +11992,7 @@ header.masthead .h1 {
   color: transparent;
   font-size: 3rem;
   text-shadow: #fff;
-  text-shadow: 1px 1px 2px #53f1ad, 0 0 1em #fcefa4, 0 0 0.2em black;
+  text-shadow: 1px 1px 2px #61e519, 0 0 1em #fcefa4, 0 0 0.2em black;
 }
 .arco3 {
   /* background-image: linear-gradient(#fcefa4, #fca4ec, #91e5d3);*/
@@ -12000,6 +12003,20 @@ header.masthead .h1 {
   font-size: 2.3rem;
   text-shadow: #fff;
   text-shadow: 1px 1px 2px #eef73c, 0 0 1em #fcefa4, 0 0 0.2em black;
+}
+
+.arco4 {
+  /* background-image: linear-gradient(#fcefa4, #fca4ec, #91e5d3);*/
+  -webkit-background-clip: text;
+  -moz-background-clip: text;
+  background-clip: text;
+  color: transparent;
+  font-size: 32px;
+  text-shadow: #fff;
+  text-shadow: 1px 1px 2px #ff92f3, 0 0 1em #555845, 0 0 0.2em black;
+}
+.parraf{
+  font-size: 20px;
 }
 /*.fondomarcos{
   --bs-bg-opacity: 1;
