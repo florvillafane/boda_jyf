@@ -4236,6 +4236,15 @@ fieldset:disabled .btn {
   transition: color 0.15s ease-in-out, background-color 0.15s ease-in-out,
     border-color 0.15s ease-in-out;
 }
+
+.nav-link2 {
+  display: block;
+  padding: 0.7rem 2rem;
+  color: #2cabb1;
+  text-decoration: none;
+  transition: color 0.10s ease-in-out, background-color 0.10s ease-in-out,
+    border-color 0.10s ease-in-out;
+}
 @media (prefers-reduced-motion: reduce) {
   .nav-link {
     transition: none;
