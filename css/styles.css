@@ -8152,7 +8152,7 @@ fieldset:disabled .btn {
 .text-muted {
   --bs-text-opacity: 1;
   /*color: #6200b8 !important;*/
-  text-shadow: 1px 1px 2px #53f198, 0 0 1em #fcefa4, 0 0 0.2em black;
+  text-shadow: 1px 1px 2px #272c29, 0 0 1em #fcefa4, 0 0 0.2em black;
   font-size: 25px;
 }
 
@@ -8242,7 +8242,7 @@ fieldset:disabled .btn {
 .bg-light {
   --bs-bg-opacity: 1;
   /*background-color: rgba(var(--bs-light-rgb), var(--bs-bg-opacity)) !important;*/
-  background-color: #95acf5;
+  background-color: #abb7db;
 }
 
 .bg-dark {
@@ -12011,7 +12011,7 @@ header.masthead .h1 {
   color: transparent;
   font-size: 2.3rem;
   text-shadow: #fff;
-  text-shadow: 1px 1px 2px #eef73c, 0 0 1em #fcefa4, 0 0 0.2em black;
+  text-shadow: 1px 1px 2px #b1ffcb, 0 0 1em #fcefa4, 0 0 0.2em black;
 }
 
 .arco4 {
