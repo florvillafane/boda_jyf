@@ -66,7 +66,7 @@ $minutes = document.getElementById('minutes'),
 $seconds = document.getElementById('seconds');
 
 //Fecha a futuro que queremos hacer el conteo
-const countdownDate = new Date('aug 12, 2022 00:00:00').getTime();
+const countdownDate = new Date('aug 12, 2022 12:15:00').getTime();
 
 let interval = setInterval(function(){
     //obtener fecha actual y milisegundos
